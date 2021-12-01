@@ -8,7 +8,10 @@ In the same time, real people will be get original page after short delay becaus
 
 The real people will be see the stop-page only once, during first visit to the site.
 
-<p align="center"><img src="/img/Screenshot(16)"></p>
+This app right now redirects to www.google.com after 5 seconds of wait for valid user.
+<br>
+
+<p align="center"><img src="https://github.com/lio2011/Protection-from-ddos/blob/main/img/Screenshot%20(16).png"></p>
 
 ## How to use
 

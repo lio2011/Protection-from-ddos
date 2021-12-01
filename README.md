@@ -8,6 +8,8 @@ In the same time, real people will be get original page after short delay becaus
 
 The real people will be see the stop-page only once, during first visit to the site.
 
+<p align="center"><img src="/img/Screenshot(16)"></p>
+
 ## How to use
 
 1. Include the app as first line in index.php.
